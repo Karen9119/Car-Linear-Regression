@@ -4,9 +4,9 @@ Car cost Linear Regression. Come up with a ML Model that can predict the price o
 
 
 <h3> Steps included in the above noteboook </h3>
-- Data Preparation
-- Creating Dummy Variables
-- Split the data into Train-Test
-- Scaling
-- ML Modelling
-- Model Evaluation
+<OL><li>Data Preparation</li>
+<li>Creating Dummy Variables</li>
+<li>Split the data into Train-Test</li>
+<li>Scaling</li>
+<li>ML Modelling</li>
+<li>Model Evaluation</li></OL>
