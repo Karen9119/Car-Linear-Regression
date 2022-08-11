@@ -10,3 +10,5 @@ Car cost Linear Regression. Come up with a ML Model that can predict the price o
 <li>Scaling</li>
 <li>ML Modelling</li>
 <li>Model Evaluation</li></OL>
+
+Made with collab with @Karen9119 and @vivekkum-ar
